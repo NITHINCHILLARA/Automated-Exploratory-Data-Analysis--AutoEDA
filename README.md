@@ -14,5 +14,5 @@ df = pd.read_csv("Ecommerce_Sales_Prediction_Dataset.csv")
 profile = ProfileReport(df, title="Weekly Audit Report", explorative=True)
 ### Export to HTML for stakeholder review
 profile.to_file("AutoEDA_Report.html")
-### Final Report Link
+### Final Auto EDA Report Link :
 https://nithinchillara.github.io/Auto-EDA-Report/
