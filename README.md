@@ -2,8 +2,8 @@
 ## Objective: 
 Replace manual data profiling with one-line AI summaries to identify data quality issues instantly.
 - Key Concept: AutoEDA allows you to visualize distributions, correlations, and missing values without writing individual plots for every column.
-- Documentation: ydata-profiling Documentation
-- Dataset Recommendation: Kaggle E-commerce Sales Data
+- Documentation: ydata-profiling Documentation ("https://docs.profiling.ydata.ai/latest/")
+- Dataset Recommendation: [Kaggle E-commerce Sales Data] ("https://www.kaggle.com/datasets/nevildhinoja/e-commerce-sales-prediction-dataset")
 ## Script to Execute:
 ## Python
 import pandas as pd
