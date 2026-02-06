@@ -15,4 +15,4 @@ profile = ProfileReport(df, title="Weekly Audit Report", explorative=True)
 ### Export to HTML for stakeholder review
 profile.to_file("AutoEDA_Report.html")
 ### Final Auto EDA Report Link :
-https://nithinchillara.github.io/Auto-EDA-Report/
+ https://nithinchillara.github.io/Automated-Exploratory-Data-Analysis--AutoEDA/
